@@ -1,0 +1,9 @@
+.imagen1{
+    height:400px;
+}
+#presentacion,#logros {
+    background-color: rgb(154, 122, 183);
+}
+#habilidades,#misProyectos {
+    background-color: rgb(106, 147, 147);
+}
